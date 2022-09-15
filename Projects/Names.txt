@@ -1,3 +1,0 @@
-1. Bus ticket reservation system
-2. Airline tikcket reservation system
-3. Fiverr.com
